@@ -1,0 +1,15 @@
+.contenedor-principal {
+    display: flex;
+    height: 100vh;
+    background-color: lightcyan;
+}
+
+.contenido {
+    background-color: lightsalmon;
+    width: 80%;
+}
+
+aside {
+    background-color: lightskyblue;
+    width: 20%;
+}
