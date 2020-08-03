@@ -1,12 +1,15 @@
 .contenedor-principal {
     display: flex;
     background-color: lightcyan;
+    
 }
 
 .contenido {
     background-color: lightsalmon;
     width: 80%;
 }
+
+
 
 header {
     background-color: lightyellow;
