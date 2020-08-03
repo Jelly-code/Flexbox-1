@@ -1,12 +1,26 @@
 .contenedor-principal {
     display: flex;
-    height: 100vh;
     background-color: lightcyan;
 }
 
 .contenido {
     background-color: lightsalmon;
     width: 80%;
+}
+
+header {
+    background-color: lightyellow;
+    height: 200px;
+}
+
+section {
+    background-color: lightpink;
+    height: 400px;
+}
+
+footer {
+    background-color: lightgreen;
+    height: 200px;
 }
 
 aside {
